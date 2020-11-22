@@ -313,7 +313,7 @@ section::after {
 ===================================================*/
 
 .parallax {
-    background: url(../img/paralllax3.jpg) fixed no-repeat center center;
+    background: url(../Images/paralllax3.jpg) fixed no-repeat center center;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -323,7 +323,7 @@ section::after {
 }
 
 .parallax3 {
-    background-image: url(../img/paralax2.jpg);
+    background-image: url(../Images/paralax2.jpg);
     background-size: cover;
     -webkit-background-size: cover;
     -moz-backgrounf-size: cover;
@@ -335,12 +335,12 @@ section::after {
 }
 
 .parallax .inner {
-    padding-top: 130px;
-    padding-bottom: 130px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .parallax.parallax2 {
-    background-image: url(../img/parallax2.jpg);
+    background-image: url(../Icons/parallax2.jpg)
 }
 
 .bm10 {
@@ -545,7 +545,7 @@ fieldset[disabled] .form-control {
 .chefs img {
     border: 5px solid #e7e7e7;
     width: 50%;
-    height: 50%;
+    height: 60%;
 }
 
 

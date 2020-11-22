@@ -952,8 +952,8 @@
     content: "\f0d0"
 }
 
-.fa-truck:before {
-    content: "\f0d1"
+.fa-frown:before {
+    content: "\f119"
 }
 
 .fa-pinterest:before {
@@ -1076,8 +1076,8 @@
     content: "\f0ee"
 }
 
-.fa-user-md:before {
-    content: "\f0f0"
+.fa-smile:before {
+    content: "\f118"
 }
 
 .fa-stethoscope:before {
@@ -1094,6 +1094,10 @@
 
 .fa-coffee:before {
     content: "\f0f4"
+}
+
+.fa-glass-whiskey:before {
+    content: "\f7a0"
 }
 
 .fa-cutlery:before {
@@ -2022,9 +2026,8 @@
     content: "\f1e2"
 }
 
-.fa-soccer-ball-o:before,
-.fa-futbol-o:before {
-    content: "\f1e3"
+.fa-drumstick:before {
+    content: "\f6d7"
 }
 
 .fa-tty:before {
