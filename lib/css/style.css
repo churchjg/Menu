@@ -272,6 +272,7 @@
         margin-bottom: 15px;
         color: #2e2e2e;
         position: relative;
+        font-weight: bold;
     }
     
     .main {
@@ -468,7 +469,7 @@
         display: inline-block;
         margin-top: 7px;
         font-size: 12px;
-        border-bottom: 1px dotted #aeaeae;
+        border-bottom: 1px dotted #fdfdfd;
     }
     
     .pricing .pricing-item .hot-tag {
